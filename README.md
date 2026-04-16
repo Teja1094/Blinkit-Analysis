@@ -32,3 +32,6 @@ Key Insights
 •	Customer ratings moderately influence sales 
 •	Outlet size and location impact performance 
 •	Low-fat products perform well in specific categories
+
+<img width="775" height="484" alt="Screenshot 2026-04-16 123322" src="https://github.com/user-attachments/assets/f83db742-c6c0-40a4-ac2d-c3a20ad7db6e" />
+
