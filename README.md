@@ -33,5 +33,6 @@ Key Insights
 •	Outlet size and location impact performance 
 •	Low-fat products perform well in specific categories
 
-<img width="775" height="484" alt="Screenshot 2026-04-16 123322" src="https://github.com/user-attachments/assets/f83db742-c6c0-40a4-ac2d-c3a20ad7db6e" />
+<img width="856" height="488" alt="Screenshot 2026-04-10 105141" src="https://github.com/user-attachments/assets/074c1045-c8e9-4a7d-b285-7e6fffde1c1a" />
+
 
